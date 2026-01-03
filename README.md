@@ -25,5 +25,3 @@ strong fundamentals in Competitive Programming.
 - **Version Control:** Git & GitHub
 
 ---
-
-## 📂 Repository Structure
