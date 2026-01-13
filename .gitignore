@@ -1,0 +1,23 @@
+# ===== Compiled / binaries =====
+*.bin
+*.exe
+*.out
+*.class
+a.out
+
+# executables without extension (common in CP)
+# Example: g++ file.cpp -o file
+# (ignore all files that have NO extension)
+*
+!*.*
+!*/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== CP Helper / Competitive Companion =====
+.cph/
+
+# ===== temp files =====
+tempCodeRunnerFile.*
+*.log
