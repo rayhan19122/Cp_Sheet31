@@ -5,7 +5,8 @@ using namespace std;
 #define endl '\n'
 
 void solve() {
-    
+    int a,b;
+    cin>>a>>b;
 }
 
 signed main() {
